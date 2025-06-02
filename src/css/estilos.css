@@ -107,3 +107,8 @@ main .personagem .imagem {
 .botoes .botao.codebreaker.selecionado {
   box-shadow: 0 0 10px #fff047;
 }
+
+.name {
+  color: #e4309a;
+  font-size: 10px;
+}
